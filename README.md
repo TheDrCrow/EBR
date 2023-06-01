@@ -34,6 +34,7 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 
 ### Genito-urinary  
 [CTU & KUB](genito-urinary/uro_CTU&KUB_FF.md) || [Prostate Ca](genito-urinary/uro_prostateCa_fu.md)  
+[Renal Cystic Masses](genito-urinary/uro_renal_cystic_masses.md)  
 [Ectopic Pregnancy](genito-urinary/gynae_ectopicPreg.md)  
 [Ovary & Ovarian Ca](genito-urinary/ovarian_Carcinoma.md)
 
