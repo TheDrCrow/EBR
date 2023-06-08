@@ -41,7 +41,7 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 ### MSK  
 [Radial Neck Fracure](msk/msk_fracture_radialneck.md)  
 [Knee Trauma](msk/msk_knee_ff.md)  
-[Knee Post-Op](/msk/msk_knee_postop.md)  
+[Knee Post-Op](msk/msk_knee_postop.md)
 [Spine Degeneration](msk/msk_spinedegen_FF.md)  
 [Spine Stenosis](msk/Spinal%20Stenosis%20Assessment.pdf)  
 [Cauda Equina Syndrome](msk/ces.md)  

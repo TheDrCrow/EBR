@@ -50,8 +50,7 @@ And look for intra-articular bodies, synovitis, bone marrow oedema in femoral co
 
 ## ACL Repair  
 
-Usually use ***Bone- Patellar Tendon- Bone*** or ***Hamstring Grafts***.  
-Hamstring grafts use distal semitendinosus and gracilis tendons and need a fixation device at either end.
+Usually use ***Bone-Patellar Tendon-Bone*** from mid section or ***Hamstring Grafts*** from distal semitendinosus and gracilis tendons and need a fixation device at either end.
 
 Representation often due to pain, instability or new ACL injury. 
 
@@ -63,10 +62,10 @@ Always assess:
     Too Anterior -> "Roof impingement" of graft on the intercondylar roof. Rad: Degeneration ( thick and high signal in graft ) & bulge posteriorly of the ACL.  
 
 2) **SIGNAL & APPEARANCE** 
-< 12-18 months post op: Can have intermediate signal (*revascularization*) especially prominent with Hamstring.
+    i) < 12-18 months post op: Can have intermediate signal (*revascularization*) especially prominent with Hamstring.
 but never fluid signal intensity.   
 
-> 12-18 months post op: Should be low on T1 & T2.  
+    ii) >12-18 months post op: Should be low on T1 & T2.  
 If not, consider impingement or disruption. 
 
 ### Non-ACL Graft Assessment in post ACL repair knee on MRI  
