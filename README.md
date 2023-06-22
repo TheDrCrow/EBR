@@ -44,6 +44,7 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 [Knee Post-Op](msk/msk_knee_postop.md)
 [Spine Degeneration](msk/msk_spinedegen_FF.md)  
 [Spine Stenosis](msk/Spinal%20Stenosis%20Assessment.pdf)  
+[Spine Inflammation](msk/msk_SPAR.md)  
 [Cauda Equina Syndrome](msk/ces.md)  
 
 ### Oncology 
