@@ -124,3 +124,51 @@ But, they still concentrate on:
 1. Sclerosis
 1. Squaring off
 
+---
+
+## Paediatric Considerations[^Herregods2023]
+
+[^Herregods2023]: Herregods N, Anisau A et al. MRI in Paediatric sacroilitis, what radiologists should know. Pediatric Radiology
+https://doi.org/10.1007/s00247-023-05602-z 
+
+**Juvenile spondyloarthropathy** = group of related inflammatory disorders, onset in childhood of adolescence.  
+Presentation is more with peripheral arthritis and enthesitis of pelvis and leg in early disease and generally SIJitis later in the course.  
+
+"*(SIitis is)..more challenging to diagnose compared with adults due to normal physiological changes.*"[^Herregods2023]  
+
+### Protocol for SIJ MRI.  
+
+Lots of protocols out there (but for adults):
+ * ASAS 2009 = Semicoronal T1/STIR.
+ * ASAS-SPARTAN 2021. 
+
+But for children there is the: ESSR-ESPR paper for SIitis in JIA[^Hemke2020]
+
+[^Hemke2020]:Hemke R, Herregods N, Jaremko JL et al (2020) Imaging assessment of children presenting with suspected or known juvenile idiopathic arthritis: ESSR-ESPR points to consider. Eur Radiol 30:5237–5249
+
+This was: 
+ * Semicoronal T1 / STIR ( or fat suppressed T2 )
+ * Axial STIR ( or fat suppressed T2 )
+
+ * and optional fat sat T1 post Gd semicoronal and axial.  
+
+ I think it should be: 
+    1. Semicoronal STIR 
+    1. Semicoronal T1 
+    1. Ax STIR of the whole pelvis ( to look at the hips and enthesitis ).
+
+But for structural lesions then a sequence for better optimisation of the bone-cartilage interface is considered important, mostly to look at erosions.  
+This might mean T1fs 2D or 3D or perhaps DESS. 
+
+### Imaging Characterisations in Children. 
+
+No paediatric scoring system or agreement like for ASAS or SPARCC or OMERACT for SIJitis 
+*"Developing reliable pediatric-specific definition for sacro-ilitis is a difficult task"*
+
+#### Active inflammatory lesions  
+
+Count bone marrow oedema(bmo), joint fluid, joint enhancement, inflammation in an erosion cavity, capsulitis and enthesitis.  
+But **Bone marrow oedema** is the key feature for diagnosing SIitis.  
+
+
+
