@@ -149,13 +149,12 @@ But for children there is the: ESSR-ESPR paper for SIitis in JIA[^Hemke2020]
 This was: 
  * Semicoronal T1 / STIR ( or fat suppressed T2 )
  * Axial STIR ( or fat suppressed T2 )
-
  * and optional fat sat T1 post Gd semicoronal and axial.  
 
- I think it should be: 
-    1. Semicoronal STIR 
-    1. Semicoronal T1 
-    1. Ax STIR of the whole pelvis ( to look at the hips and enthesitis ).
+I think it should be: 
+1. Semicoronal STIR 
+1. Semicoronal T1 
+1. Ax STIR of the whole pelvis ( to look at the hips and enthesitis ).
 
 But for structural lesions then a sequence for better optimisation of the bone-cartilage interface is considered important, mostly to look at erosions.  
 This might mean T1fs 2D or 3D or perhaps DESS. 
@@ -167,8 +166,47 @@ No paediatric scoring system or agreement like for ASAS or SPARCC or OMERACT for
 
 #### Active inflammatory lesions  
 
-Count bone marrow oedema(bmo), joint fluid, joint enhancement, inflammation in an erosion cavity, capsulitis and enthesitis.  
+Count bone marrow oedema (BMO), joint fluid, joint enhancement, inflammation in an erosion cavity, capsulitis and enthesitis.  
 But **Bone marrow oedema** is the key feature for diagnosing SIitis.  
+*However* Sens/Spec = 0.26 / 0.97. So, less sensitive but more specific than for adults.  
+
+Look for ***Enthesitis***  
+Predicts predicts SIitis on follow up MRI.  
+Look at symphysis pubis, rami, iliac crests, ischia, anterior superior and inferior iliac spines, vertebral posterior elements and any other muscle insertions. 
+
+#### Structural lesions  
+
+Seen generally later, on semicoronal T1 sequences.  
+Are: Erosions, sclerosis, fat lesions (metaplasia), backfill(?) and ankylosis.  
+Seen less often in children. 
+
+**Definitions from JAMRIS-SIJ Scoring System. (JIA working group in OMERACT)**  
+| Features | Definitions |
+|---|---|
+| | **Active Inflammation** | 
+| Bone Marrow Oedema | An ill-defined area of high bone marrow signal intensity within the subchondral bone of the ilium or sacrum on fluid-sensitive images |
+| *Bone marrow Oedema Intensity* | *Hyperintensity of the marrow edema, using the brightest presacral veins as reference* |
+| *Bone marrow oedema depth* | *Continuing increased signal of depth ≥ 5 mm/ ≥ 1 cm from the articular surface* |
+| Capsulitis | High signal on fluid-sensitive and/or post-contrast enhancement involving the sacroiliac joint capsule |
+| Joint Space Inflammation (JSI) | Increased signal on fluid-sensitive or contrast-enhanced T1-weighted images within the joint space of the cartilaginous portion of the sacroiliac joint. |
+| Enthesitis | High signal in bone marrow and/or soft tissue on a fluid-sensitive sequence or a contrast-enhanced T1-weighted sequence at sites where ligaments and tendons attach to a bone |
+| | | 
+| | **Structural Lesions** | 
+| Sclerosis | A substantially wider than normal area of low subarticular bone signal on T1-weighted and fluid-sensitive images (≥ 5 mm in adolescents) | 
+| Erosion | Bony defect (or irregularity with associated bone marrow edema, sclerosis, or fatty lesion) at the osteochondral interface involving both contour and signal on both T1-weighted and fluid-sensitive images | 
+| Fat lesion | Increased homogenous signal intensity on T1-weighted non- fat suppressed image in subchondral bone with a distinct border |
+| Backfill | A bright signal on a T1-weighted sequence in a typical location for an erosion, with signal intensity greater than normal bone marrow, and meeting the following requirements.<br>1. It is associated with complete loss of the dark appearance of the subchondral cortex at its expected location.<br>2. It is clearly demarcated from adjacent bone marrow by an irregular band of dark signal reflecting sclerosis at the border of the original erosion. |
+| Ankylosis | Presence of signal equivalent to regional bone marrow continuously bridging a portion of the joint space between the iliac and sacral bones |
+     
+> “in comparison to physiological changes normally seen in MRIs of age and sex matched children, and visible in two planes where available” 
+
+#### Gadolinium  
+Most recent papers suggest only limited role in DETECTION of active synovitis in children [^Herregods2023].  
+Might be helpful for ambiguous cases: Uncertain findings on STIR, or to differentiate joint fluid from joint space.  
 
 
+### Pitfalls in the Assessment of pediatric Sacroilitis. 
 
+##### Bony Anatomy  
+Primary centres fuse by ~ 7 yrs. 
+Multiple small apo and epi-physes 
