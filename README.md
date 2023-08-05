@@ -9,6 +9,27 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 [Nightsweats](general/general_nightsweats.md)  
 [Confusion](general/general_confusion_ix.md)
 
+### Paediatrics 
+[Lines & Stuff](paed/paed_lines_and_stuff.md)
+[Follow Up Imaging](paed/paed_follow_up.md)  
+[Neck Lumps](paed_neuro/paed_neck_lumps.md)  
+[Cystic Fibrosis](paed/cystic_fibrosis.md)  
+[Abdomen](paed/paed_abdomen.md)
+[Precocious Puberty](paed/paed_endo_precociousPuberty.md)  
+[Gynaecology](paed/paed_gynae_FF.md)  
+[Urology](paed/paed_uro.md)  
+[Feet](paed/paed_ortho_feet.md) || [Hips](paed/paed_ortho_hips.md)  
+
+### Paediatric Neuroradiology  
+[Neuroanatomy](paed_neuro/neuro_paed_anatomy.md)   
+[Developmental Issues](paed_neuro/neuro_paed_development.md)  
+[Supratentorial Malformations](paed_neuro/supratentorial_malformations.md)   
+[Epilepsy](paed_neuro/neuro_paed_epilepsy.md)  
+[Brain Tumours](paed_neuro/neuro_paed_brain_tumours.md)  
+[Pituitary & Pineal](paed_neuro/neuro_paed_Pit_Pineal.md)  
+[Neurofibromatosis & Other Phakomatoses](paed_neuro/neurofibromatosis.md)  
+[Scoliosis](paed_neuro/Scoliosis.docx)
+
 ### Neurology
 [Confusion in Elderly](neuro/Confusion_CT^.md)  
 [Guillan-Barre Syndrome](neuro/neuro_GBS.md)  
@@ -56,22 +77,4 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 [Melanoma](onco/onco_melanoma_NICE^.md)   
 [Rectal MR](onco/onco_rectalMR_FF.md)  
 
-### Paediatrics 
-[Follow Up Imaging](paed/paed_follow_up.md)  
-[Neck Lumps](paed_neuro/paed_neck_lumps.md)  
-[Cystic Fibrosis](paed/cystic_fibrosis.md)  
-[Precocious Puberty](paed/paed_endo_precociousPuberty.md)  
-[Gynaecology](paed/paed_gynae_FF.md)  
-[Urology](paed/paed_uro.md)  
-[Feet](paed/paed_ortho_feet.md) || [Hips](paed/paed_ortho_hips.md)  
-
-### Paediatric Neuroradiology  
-[Neuroanatomy](paed_neuro/neuro_paed_anatomy.md)   
-[Developmental Issues](paed_neuro/neuro_paed_development.md)  
-[Supratentorial Malformations](paed_neuro/supratentorial_malformations.md)   
-[Epilepsy](paed_neuro/neuro_paed_epilepsy.md)  
-[Brain Tumours](paed_neuro/neuro_paed_brain_tumours.md)  
-[Pituitary & Pineal](paed_neuro/neuro_paed_Pit_Pineal.md)  
-[Neurofibromatosis & Other Phakomatoses](paed_neuro/neurofibromatosis.md)  
-[Scoliosis](paed_neuro/Scoliosis.docx)
 
