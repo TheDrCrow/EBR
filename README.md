@@ -30,6 +30,14 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 [Neurofibromatosis & Other Phakomatoses](paed_neuro/neurofibromatosis.md)  
 [Scoliosis](paed_neuro/Scoliosis.docx)
 
+### Oncology 
+[Febrile Neutropenia](onco/onco_neutropenic_sepsis.md) || [MSCC](onco/mscc.md) || [Paraneoplatic](onco/paraneoplastic.md)  
+[Nodes](onco/onco_nodes.md)|| [Brain Mets](onco/onco_brain_mets.md) || 
+[AML](onco/onco_AML_CT.md)  
+[Myeloma](onco/onco_myeloma_FF.md)  
+[Melanoma](onco/onco_melanoma_NICE^.md)   
+[Rectal MR](onco/onco_rectalMR_FF.md)  
+
 ### Neurology
 [Confusion in Elderly](neuro/Confusion_CT^.md)  
 [Guillan-Barre Syndrome](neuro/neuro_GBS.md)  
@@ -70,11 +78,5 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 [Spine Inflammation](msk/msk_SPAR.md)  
 [Cauda Equina Syndrome](msk/ces.md)  
 
-### Oncology 
-[Febrile Neutropenia](onco/onco_neutropenic_sepsis.md) || [MSCC](onco/mscc.md) || [Paraneoplatic](onco/paraneoplastic.md)  
-[AML](onco/onco_AML_CT.md)  
-[Myeloma](onco/onco_myeloma_FF.md)  
-[Melanoma](onco/onco_melanoma_NICE^.md)   
-[Rectal MR](onco/onco_rectalMR_FF.md)  
 
 
