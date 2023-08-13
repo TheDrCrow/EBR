@@ -33,8 +33,7 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 ### Oncology 
 [Febrile Neutropenia](onco/onco_neutropenic_sepsis.md) || [MSCC](onco/mscc.md) || [Paraneoplatic](onco/paraneoplastic.md)  
 [Nodes](onco/onco_nodes.md)|| [Brain Mets](onco/onco_brain_mets.md) || 
-[AML](onco/onco_AML_CT.md)  
-[Myeloma](onco/onco_myeloma_FF.md)  
+[Lymphoma](onco/onco_lymphoma.md) || [AML](onco/onco_AML_CT.md) || [Myeloma](onco/onco_myeloma_FF.md)  
 [Melanoma](onco/onco_melanoma_NICE^.md)   
 [Rectal MR](onco/onco_rectalMR_FF.md)  
 

@@ -3,6 +3,8 @@
 [^Sahdev]: Sahdev A and Vinnicombe S. Husband & Resnek Imaging in Oncology. CRC Press 2020. 
 [^Vattoth]: Vattoth S & Chapman P. 2023 https://my.statdx.com/document/cervical-lymph-nodes
 [^Carter]: Carter B. 2023 https://my.statdx.com/document/iaslc-lymph-node-map/f1a3b872-134d-435a-a362-3cec0606bed8
+[^Padhani]: Padhani A. 2014. RCR Recommendations for Cross-Sectional Imaging in Cancer Management. 2022 Update.
+[^Grays]: Stanford S. Grays Anatomy 2021.
 
 ## Anatomy [^Sahdev] [^Vattoth]
 
@@ -73,22 +75,79 @@ For other carcinomas then use:
 > Paratracheal & Tracheobronchial = Paratracheal, Retrotracheal, Aortopulmonary, Azygos & Subcarinal.
 > Posterior Mediastinal = Para-oesophageal and pulmonary ligament.
 
+In Lymphoma then use Nodal REGIONS. 
+
 ---
 ### Abdomen  
 
+| Region | Sites | Notes | 
+|:---|:---|:---|
+| Retroperitoneum | Paracaval, precaval, retrocaval, aortocaval, preaortic and para-aortic | | 
+| Celiac Axis | include Greater & lesser curvature nodes, pancreaticoduodenal nodes and porta hepatis | |
+| SMA | Mesenteric nodes | | 
+| IMA | including mesenteric nodes in sigmoid mesentery and the superior rectal vessels. |  
+
 --- 
+
 ### Pelvis
 
+Confusing nomenclature and lack of definitions. 
+
+Generally Common Iliac, External Iliac and Inguinal (inferior to the inguinal ligament) are easy to define.   
+and behind them are the Presacral nodes.
+
+The internal iliacs are more challenging to be categorical about.   
+
+![Grays Image of Pelvic nodes](images/internal_iliac_nodes.jpg)
+
+But, I would say: [^Grays]   
+ - Obturator nodes follow the anterior division of the Internal Iliacs. But Husband says it is medial chain of External Iliac
+ - Hypogastric nodes follow the middle/posterior division of the Internal Iliacs 
+   - *and the internal iliacs are sometimes conglomorated with them*
+ - Also there is the 3rd branch which is the gluteal.
+
+
 ---
-## Normal & Abnormal.
+## Normal & Abnormal [^Padhani]
+
+| Region | Site | RCR SAD (mm) | Husband & Resnek | 
+|:---|:---|:---|:---|
+| Head + Neck | Facial | Not visible | |
+| | Cervical | 8 or <br>10 for Jugulodigastric | |
+| Axilla | | 10 | | 
+| Mediastinum | Subcarinal | 12 | | 
+| | Paracardiac | 8 | 12 |
+| | Retrocrural | 6 | 6 |
+| | All other sites | 10 | |
+| Abdomen | Gastrohepatic | 8 | 8 | 
+| | Porta hepatis | 8 | 7 |
+| | Portocaval | 10 | 10 or 13 |
+| | Celiac Axis to Renal Artery | 10 | 9 | 
+| | Renal Artery to Bifurcation | 12 | 11 | 
+| | Mesenteric | | 5 | 
+| Pelvis | Common Iliac | 9 | 10 |
+| | External Iliac | 10 | 10 | 
+| | Internal Iliac | 7 | 10 |
+| | Obturator | 8 | 10 | 
+| Inguinal | | 10 | 15 | 
+
+> RCR criteria based on AXIAL slices. 
 
 ### Neck 
 
 *1-cm cutoff in largest axial diameter shows 88% sensitivity & 39% specificity, whereas 1.5-cm cutoff shows 56% sensitivity & 84% specificity for metastatic head & neck cancer* [^Vattoth]
 
-
-
-
 ## Drainage Pathway.
+
+| Tumour | Initial Drain Site | Then to... |
+|:---|:---|:---|
+| Vulval, Penis, Anus | Inguinal Nodes | |
+| Prostate | Any of the lower pelvic groups | Common Iliac / Para-aortic | 
+| | 60% go to Obturator and Ext Iliacs | |
+| | but 20% are ONLY in presacral locally. | |
+| Bladder | Paravesical | Obturator & External Iliacs then Common Iliacs |
+| | | or Hypogastric & Presacral then Common Iliacs | 
+| Cervix, Ovary & Uterine | Obturator | External Iliac then Commmon Iliac |
+| CRC
 
 ## Treatment Change.
