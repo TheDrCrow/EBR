@@ -111,7 +111,7 @@ But, I would say: [^Grays]
 ## Normal & Abnormal [^Padhani]
 
 | Region | Site | RCR SAD (mm) | Husband & Resnek | 
-|:---|:---|:---|:---|
+|:---|:---|:---:|:---:|
 | Head + Neck | Facial | Not visible | |
 | | Cervical | 8 or <br>10 for Jugulodigastric | |
 | Axilla | | 10 | | 
@@ -137,7 +137,7 @@ But, I would say: [^Grays]
 
 *1-cm cutoff in largest axial diameter shows 88% sensitivity & 39% specificity, whereas 1.5-cm cutoff shows 56% sensitivity & 84% specificity for metastatic head & neck cancer* [^Vattoth]
 
-## Drainage Pathway.
+## Drainage Pathway.[^Sahdev]
 
 | Tumour | Initial Drain Site | Then to... |
 |:---|:---|:---|
@@ -148,6 +148,35 @@ But, I would say: [^Grays]
 | Bladder | Paravesical | Obturator & External Iliacs then Common Iliacs |
 | | | or Hypogastric & Presacral then Common Iliacs | 
 | Cervix, Ovary & Uterine | Obturator | External Iliac then Commmon Iliac |
-| CRC
+| Right Side Colonic | Ileocolic | SMV |
+| Left Side Colonic | IMV | | 
+| Rectum | Mesorectal | Superior Rectal | 
+| | Occasional to pelvic side wall. | 
+| Testes | RIGHT: Right retroperitoneal LEFT: Left retroperitoneal at level of the renal vein | | 
+| Upper GI Malignancy | Hepatoduodenal, peripancreatic and aortocaval | |  
+| Kidneys | Ipsilateral Renal Vein | Para-aortic / paracaval nodes |
+| Lung | Ipsi hilar nodes | Mediastinal Nodes (esp Paratracheal + Tracheobronchial Nodes) |
+| Pleura | Nodes along chest wall (inc posterior intercostal, internal mammary, diaphrgamatic ) |
+| Breast | Axillary | Subpectoral & Supraclavicular | 
 
+> Upper GI = Gastric, pancreatic, liver, gallbladder and bile ducts.
+> Breast = Tumours tend to spread to one node first = "Sentinel" nodes.
+> GCT in testes are usually to abdomen in the first place, unless prior scrotal sugery, tumour in undescended testis, retrograde lymphatic spread secondary to bulky retroperitoneal disease or prior nodal dissection. 
+> Echelon Node = In testicular Ca is anterior to the iliopsoas. Uncommon. 
+
+## Probability of Involvement 
+
+| Tumour | T1 | T2 | T3 | T4 | 
+|:---|:---|:---|:---|:---|
+| Prostate | <5% | <5% | 15-30% | >40% |
+| Bladder | <5% | 10-20% | 40% | 45% | 
+| CRC | 5% | 20% | >50% | >50% |
+| Ovary | 10% | 15% | 35% | >50% |
+
+Other features also predict nodal Involvement including grade, vascular invasion, depth of invasion, high PSA etc
 ## Treatment Change.
+
+Post Therapy the pattern of relapse changes so,  
+Prostate post RT or RP with LND, relapse is outside pelvis.  
+Bladder post radical cystectomy, relapse often in hypogastric / internal iliac nodes, presacral and para-aortic nodes.
+
