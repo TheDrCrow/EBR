@@ -68,6 +68,7 @@ More of a personal knowledge archive for snippets of stuff I read, forget and th
 
 ### MSK  
 [Radial Neck Fracure](msk/msk_fracture_radialneck.md)  
+[Shoulder](msk/msk_shoulder.md)  
 [Knee Trauma](msk/msk_knee_ff.md)  
 [Knee Post-Op](msk/msk_knee_postop.md)
 [Spine Degeneration](msk/msk_spinedegen_FF.md)  
