@@ -107,11 +107,13 @@ i) **Sublabral Recess**
     - 11 to 1 o'clock. 
     - Smooth margin 
     - Parallel to glenoid margin 
-    - No extension into labral substance.
+    - No extension into labral substance.  
+
 ii) **Sublabral Foramen** 
     - Focal detachment of the labrum.
     - Only from 1 to 3 o'clock. 
-    - Anymore is a tear. 
+    - Anymore is a tear.   
+
 iii) **Buford Complex** 
     - Congenital absence of anteriosuperior labrum from 1 to 3 o'clock.
     - With thick, cord like MGHL 
@@ -126,3 +128,6 @@ Original Classification.
 | II | Separation of biceps anchor/superior labrum from underlying glenoid | Most Common |
 | III | Displaced bucket handle tear without extension into LHBT. | | 
 | IV | Bucket handle tear in the LHBT | Just describe the extension of the tear | 
+> Assess on coronal plane but axial also useful for adjacent structures.  
+> *Tear* = abnormal high signal in substance of labrum +/- displaced fragments. 
+
