@@ -17,6 +17,7 @@
 			2. [Treatment.](#treatment)
 		5. [Varicocele in Children](#varicocele-in-children)
 			1. [Imaging](#imaging)
+			2. [Treatment](#treatment-1)
 		6. [Antenatal Hydronephrosis. \[^UTD2014\]](#antenatal-hydronephrosis-utd2014)
 			1. [Postnatal.](#postnatal)
 				1. [Management.](#management-1)
@@ -28,9 +29,11 @@
 			3. [Children \> 3years old.](#children--3years-old)
 			4. [Also in the Guidance.](#also-in-the-guidance)
 		8. [Vesicoureteric Reflux.](#vesicoureteric-reflux)
-		9. [Lower Urinary Tract Symptoms \[^Dynamed2022\] \[^PIER2021\] \[^NICE2010\] \[^Fuentes2019\]](#lower-urinary-tract-symptoms-dynamed2022-pier2021-nice2010-fuentes2019)
-			1. [__**Definitions**__ ( International Children's Continence Society (ICCS) Document )](#definitions--international-childrens-continence-society-iccs-document-)
-			2. [__**Guidance**__](#guidance)
+		9. [ADPKD](#adpkd)
+			1. [Ultrasound Criteria = *Pei-Ravine* Criteria. \[^Pei2009\]](#ultrasound-criteria--pei-ravine-criteria-pei2009)
+		10. [Lower Urinary Tract Symptoms \[^Dynamed2022\] \[^PIER2021\] \[^NICE2010\] \[^Fuentes2019\]](#lower-urinary-tract-symptoms-dynamed2022-pier2021-nice2010-fuentes2019)
+			 1. [__**Definitions**__ ( International Children's Continence Society (ICCS) Document )](#definitions--international-childrens-continence-society-iccs-document-)
+			 2. [__**Guidance**__](#guidance)
 
 
 
@@ -129,7 +132,7 @@ Also suggest doing the Anna Thornton stand up and demonstrate the reversal of bl
 
 Measure volumes on both sides ( >20% or >2ml difference) = 'hypotrophy'
 
-####Treatment 
+#### Treatment 
 Intervention early is not generally needed unless 
 - Small testis on 2 asssessments 6 months apart. 
 - Pain and cosmesis.
@@ -241,6 +244,26 @@ In all of the above, a child with a non E.coli infection but no other atypical f
 
 --- 
 
+### ADPKD 
+
+#### Ultrasound Criteria = *Pei-Ravine* Criteria. [^Pei2009]
+
+Based on correlation of US findings and molecular genotyping of 577 and 371 at-risk individuals from 58 PKD1 and 39 PKD2 families.  **Thus, in patients at risk**.   
+
+Generally PKD2 produce fewer cysts and the tests are less useful. 
+
+| Age | Criteria | Notes | 
+|:---|:---|:---| 
+| 15-39y | 3 or more cysts in total | Mixed PKD1/2 Sens = 0.82.(Worse in PKD2) |
+| 30-59y | 2 or more cysts in each kidney | PKD1 Sens ~ 0.93. PKD2 Sens ~ 0.8 | 
+| >60y | 4 or more in each kidney | | 
+| | **EXCLUSION** | |
+| <30y | <= 1 cyst in total  | 90% NPV | 
+| >=40y | <= 1 cyst in total | 100% NPV | 
+> The age crossover is not an error. 
+
+---
+
 ### Lower Urinary Tract Symptoms [^Dynamed2022] [^PIER2021] [^NICE2010] [^Fuentes2019]
 
 #### __**Definitions**__ ( International Children's Continence Society (ICCS) Document )
@@ -345,3 +368,6 @@ Does not make recommendation in the end points of the recommendation but in diag
 [^iREFER2021]: https://www.irefer.org.uk/guidelines 
 [^NICE2018]: https://www.nice.org.uk/guidance/cg54
 [^NICE2022]: https://www.nice.org.uk/guidance/ng224
+
+[^Pei2009]: Pei Y et al. Unified criteria for ultrasonographic diagnosis of ADPKD J Am Soc Nephrol
+. 2009 Jan;20(1):205-12. doi: 10.1681/ASN.2008050507. Epub 2008 Oct 22.
