@@ -10,20 +10,11 @@
 4. Critical Variants.
 5. State of other regions. 
 
+'description of sinus disease should include the pattern and location; presence of mucosal thickening, opacification, or mass; and associated bone changes of erosion, sclerosis, or sinus expansion. 
+
 ### Normal Mucosa:
 
 = <4mm in Maxillary Sinus, <2mm in Ethmoid Sinus & Nose. Generally not seen in the Frontal or sphenoids in healthy patients
-
-### Post- Operative:
-
-Focus on Frontal drainage pathway and its patency:
-? lateralisation of the middle turbinate.
-? persistent frontal recess cells.
-	Assess completeness of uncinatomy and ? whether it is too far posterior. 
-	Assess extent of ethmoidectomy +/- any post-op synechiae ⇒ obstructed sinus drainage.
-	Persistent sinus opacification ? due to viscous secretions. 
-	Assess integrity of the middle turbinate attachment to the anterior skull base. - ? dehiscence
-	? any defect in the lamina papyracea.
 
 ### Lund & Mackay Scoring System for CRS. 
 
@@ -59,6 +50,87 @@ So, can score up to 54.
 
 --- 
 
+### System of Review [^Vaid2011]
+
+**1. Nasal Septum** 
+ - Septal Deviation & Pneumatization. -> Limit access. Need septoplasty.
+ - Thick bone -> Need bigger drill. 
+
+**2. Middle Turbinate.**
+ - Attachments -> Posterior Attachment to LP is the basal lamella. Even more posteriorly tends to attach to the Maxillary sinus wall. In post-op the anterior-superior part is often the only part identifiable. 
+ - Variants -> Causing narrowing = Concha bullosa , Interlamellar cell of Grunwald and paradoxical curvature.  
+
+**3. Uncinate Process** 
+ - Superior Attachments -> Can be anterior skull base, the lamina papyracea or the middle turbinate. This determines how the Frontal sinus drains. Acute angle of attachment with the LP is a risk for orbital penetration.
+ - Lateral Orientation / Deviation -> may be seen in small or hypoplastic maxillary sinus and is a risk for orbital penetration.
+
+**4. OMC & Maxillary Sinus** 
+ - View in Coronal and assess for mucosal disease, patency of maxillary ostium and encroachment of Haller cells.
+ - Accessory Maxillary Ostium ~20% of patients 
+
+**5. FDSP**
+ - Identify Frontal ostium and recess. Patency & size. 
+ - Frontal Beak -> If thick needs big drill.
+ - (Agger Nasi -> pneumatization = surgical landmark as anterior border of the frontal recess.)
+ - Frontoethmoidal Cells = ***Wormald Classification***. Based on position of cells in relation to the agger nasi cell, frontal beak and degree of extension into frontal sinus.
+
+![Frontoethmoidal Cells](images/FE_cells.png)
+![Frontoethmoidal Cells](images/FE_cells2.png)
+
+- *Frontal Bullar* cells = Start in suprabullar region and extend into frontal sinus along anterior margin of the skull base. Anterior wall is frontal sinus. Posterior wall is anterior skull base. Can be hazardous when penetrating as may damage skull base. 
+- Interfrontal Sinus Septal Cell = Is within the interfrontal sinus septum -> Can narrow frontal ostium.  
+
+ - Frontal Sinus -> Pneumatization and lateral extent. Need to remove all cells. If large may need lateral trepination in which case beware posterior wall dehiscence.  
+
+**6. Anterior Ethmoidal Cells, Bulla Ethmoidalis, Supraorbital Cells**
+ - Bulla Ethmoidalis = Largest anterior ethmoidal cell = Surgical landmark. But if small then LP has medial projection (*torus lateralis*) -> Risk of orbital trauma.
+ - Supraorbital cells = Identify. Extend above the orbit -> Can displace anterior ethmoidal artery posteriorly and can be mistaken at operation for the Frontal sinus 
+
+**7. Basal Lamella** 
+ - Pneumatized -> Identify as can be mistaken as a posterior ethmoidal cell. 
+ - 'Missed basal lamella' -> Identify. = misses the LP and attaches to the lateral maxillary wall. This divides maxillary sinus into larger anterior component draining into middle meatus and smaller posterior component draining into superior meatus.
+
+**8. Posterior Sinus Group** = Posterior Ethmoids and Sphenoidal Cells.
+ - (Vertical distance from Superior border maxillary sinus to roof of posterior ethmoidal cells on Coronal CT. If small or asymmetric, then at risk of penetration)
+ - Onodi Cell = lateral and posterior pneumatization of the most posterior ethmoidal cell. 10% of population. Identify. Increase risk of damage to the Optic nerves.
+ - Sphenoidal Sinus -> Pneumatization & Size. 
+ - Bony coverage of ICA, ONs, Vidian canals, Vii branches in foramen rotundum. ICA is bony dehiscent in 22% and ON in 4%. 
+ - Sphenoidal intersinus septa reaching ICA or ON -> Identify as increased risk of damage. 
+
+**9. Anterior Skull Base**
+ - Level and slope of Fovea Ethmoidalis (= lateral part of ethmoid anterior skull base ) -> Identify and comment if asymmetric and/or the level through the mid-orbital plane. Both features risk ASB penetration.  
+ - Depth of Olfactory fossa. = KEROS system ~ length of lateral lamella of cribiform plate (Type I = <3mm, Type II = 3-7mm, Type >7mm)
+
+**10. Anterior Ethmoid Artery**
+ - Identify dehiscence and if on a pedicle.  
+
+**11. Lamina Papyracea** 
+ - Focal Dehiscence -> Risk of penetration (5% of population).
+ - Lateral Orientation -> Identify -> Normally the plane lines up with the maxillary sinus ostium but if the maxillary sinus is small then the LP can be relatively medial and at risk of penetration. 
+
+**12. Bony Margins of Sinuses 
+ - Thickness or Hyperostosis. 
+ - Aggressive Erosion, bone remodelling or pressure erosion. (-> underlying disease)
+
+**13. Brain, Orbit and nasopharynx.
+ - Be careful not to miss advanced disease. 
+
+--- 
+
+### Post- Operative:
+
+1. Focus on Frontal drainage pathway and its patency:
+? lateralisation of the middle turbinate.
+? persistent frontal recess cells.
+
+2. Assess completeness of uncinatomy and ? whether it is too far posterior. 
+   Assess extent of ethmoidectomy +/- any post-op synechiae ⇒ obstructed sinus drainage.Persistent sinus opacification ? due to viscous secretions. 
+	
+3. Assess integrity of the middle turbinate attachment to the anterior skull base. - ? dehiscence
+	? any defect in the lamina papyracea.
+
+--- 
+
 ## Development and Paediatric Consideration.
 
 ### Lund & Mackay Score in Paediatric Chronic Rhinosinusitis Diagnosis  
@@ -89,8 +161,6 @@ So at 7-11yrs: Absent or Underdeveloped:[^Melder2021]
  - Ethmoids = Extend superiorly to the level of the cribiform plate.
  - Sphenoids = Extend laterally and superior to the optic structs.
 
-
-### Benign Neoplasms:
 
 ---
 
