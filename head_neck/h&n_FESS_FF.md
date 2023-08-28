@@ -93,7 +93,7 @@ So, can score up to 54.
 **8. Posterior Sinus Group** = Posterior Ethmoids and Sphenoidal Cells.
  - (Vertical distance from Superior border maxillary sinus to roof of posterior ethmoidal cells on Coronal CT. If small or asymmetric, then at risk of penetration)
  - Onodi Cell = lateral and posterior pneumatization of the most posterior ethmoidal cell. 10% of population. Identify. Increase risk of damage to the Optic nerves.
- - Sphenoidal Sinus -> Pneumatization & Size. 
+ - Sphenoidal Sinus -> Pneumatization & Size. Pneumatization = Conchal (does not abut the sella), Pre-sellar (abuts the anterior part), Sella ( abuts more than just the anterior part), Post-sellar(abuts the posterior part of the sella ) 
  - Bony coverage of ICA, ONs, Vidian canals, Vii branches in foramen rotundum. ICA is bony dehiscent in 22% and ON in 4%. 
  - Sphenoidal intersinus septa reaching ICA or ON -> Identify as increased risk of damage. 
 

@@ -140,7 +140,7 @@ INCIDENTAL FINDINGS
 "- Middle Turbinate: Normal. / Concha / Paradoxical / Lateralised.",
 "FRONTAL RECESS VARIANTS.",
 "- Anterior clinoid process pneumatization: Absent.",
-"- Sphenoid sinus size: Sella / Pre-sellar / Conchal",
+"- Sphenoid sinus size: Sella / Pre-sellar / Post-sellar / Conchal.",
 ";",
 "INCIDENTAL FINDINGS", 
 "- Brain: xx",
