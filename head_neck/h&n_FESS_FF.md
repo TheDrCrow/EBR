@@ -108,11 +108,11 @@ So, can score up to 54.
  - Focal Dehiscence -> Risk of penetration (5% of population).
  - Lateral Orientation -> Identify -> Normally the plane lines up with the maxillary sinus ostium but if the maxillary sinus is small then the LP can be relatively medial and at risk of penetration. 
 
-**12. Bony Margins of Sinuses 
+**12. Bony Margins of Sinuses** 
  - Thickness or Hyperostosis. 
  - Aggressive Erosion, bone remodelling or pressure erosion. (-> underlying disease)
 
-**13. Brain, Orbit and nasopharynx.
+**13. Brain, Orbit and nasopharynx.**
  - Be careful not to miss advanced disease. 
 
 --- 
